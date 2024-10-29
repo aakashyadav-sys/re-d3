@@ -1,0 +1,1 @@
+export const url = 'http://94.136.187.170/ecmwebsite/';

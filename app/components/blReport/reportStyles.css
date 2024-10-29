@@ -1,0 +1,19 @@
+.min-height-custom {
+  min-height: 125px !important;
+}
+
+.min-height-grid2 {
+  min-height: 40px !important;
+}
+
+.min-height-grid3 {
+  min-height: 160px !important;
+}
+
+.min-height-table {
+  min-height: 280px !important;
+}
+
+.min-height-attachment {
+  min-height: 70px !important;
+}

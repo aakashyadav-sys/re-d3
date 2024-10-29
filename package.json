@@ -1,0 +1,41 @@
+{
+  "name": "ecm-project1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 --port 4001",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 --port 4001",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.15.21",
+    "@mui/x-date-pickers": "^7.14.0",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.4",
+    "d3": "^7.9.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.5",
+    "html2pdf.js": "^0.10.2",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^14.2.4",
+    "number-to-words": "^1.2.4",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-query": "^3.39.3",
+    "react-toastify": "^10.0.5",
+    "sharp": "^0.33.5",
+    "sunburst-chart": "^1.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.4",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
